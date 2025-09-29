@@ -1,4 +1,4 @@
-📚 Learning Management System (Mini LMS)
+Learning Management System
 🔹 Description
 
 The Mini LMS is a web-based application designed to provide a simple yet powerful platform for managing online learning.
